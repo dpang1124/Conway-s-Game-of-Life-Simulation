@@ -3,7 +3,7 @@
 
 #include "life.h"
 
-//testing connectivity 2
+//testing connectivity 
 /* Be sure to read life.h and the other given source files to understand
  * what they provide and how they fit together.  You don't have to
  * understand all of the code, but you should understand how to call
